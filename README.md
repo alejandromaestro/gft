@@ -1,2 +1,1 @@
-# gft
-Prueba técnica 
+
